@@ -1,0 +1,10 @@
+let num = [4, 6, 7, 3, 2, 1];
+let i = 'people';
+let dumb = [];
+let hoea = [0];
+let kobe = '[fun]';
+console.log(Array.isArray(num));
+console.log(Array.isArray(i));
+console.log(Array.isArray(dumb));
+console.log(Array.isArray(hoea));
+console.log(Array.isArray(kobe));
